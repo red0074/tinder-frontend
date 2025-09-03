@@ -1,8 +1,28 @@
-# React + Vite
+<h1 align="center" id="title">photoverse</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p id="description">Developed an application with card-swiping funcationality using react-twitter node package</p>
 
-Currently, two official plugins are available:
+<h2>Project Screenshots:</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="https://res.cloudinary.com/dnvczouzo/image/upload/v1756896475/Screenshot_From_2025-09-03_16-15-42_tzzb4v.png" alt="project-screenshot" width="600" height="400/">
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Optimized image loading with Redis for caching ensuring Fast and Responsive interactions
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   React Js
+*   Material UI
+*   MongoDb
+*   Express Js
+*   Node js
+*   Render
